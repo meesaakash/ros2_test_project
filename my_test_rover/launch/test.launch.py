@@ -32,7 +32,7 @@ def generate_launch_description():
             arguments=[urdf]),
         Node(
             package='my_test_rover',
-            executable='my_node',
-            name='my_node',
+            executable='my_rover_state_publisher',
+            name='my_rover_state_publisher',
             output='screen'),
     ])
