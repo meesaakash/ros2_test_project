@@ -1,5 +1,5 @@
 # ros2_test_project
-Showcase of a ros2 simulation robot with two wheels and able to drive around via keyboard commands (WASD) or preset publisher function.
+Showcase of a ros2 simulation robot with two wheels that drives around in an Rviz simulator via keyboard commands (WASD) or publisher functions for moving in a fixed pattern.
 
 Using ROS2 Humble on Mac M1
 
