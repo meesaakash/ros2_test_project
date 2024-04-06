@@ -1,8 +1,9 @@
 # ros2_test_project
-Showcase of a ros2 simulation robot with two wheels and able to drive around via published commands
+Showcase of a ros2 simulation robot with two wheels and able to drive around via keyboard commands (WASD) or preset publisher function.
 
-Using Ros2 humble on Mac M1
+Using ROS2 Humble on Mac M1
 
+Next steps: Building pose estimator for simulating roaming on a complex terrain.  
 
 # useful commands:
 
